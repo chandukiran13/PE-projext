@@ -1,11 +1,10 @@
-import numpy as np
-import time
-import pygame
+import threading
 import tkinter as tk
-import matplotlib.pyplot as plt
 from math import *
 import matplotlib.animation as anim
-import threading
+import matplotlib.pyplot as plt
+import numpy as np
+import pygame
 
 
 def Average(lst):
